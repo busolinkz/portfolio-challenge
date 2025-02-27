@@ -36,7 +36,7 @@ O layout foi desenvolvido com foco em:
 
 ## 🌐 Como Acessar
 
-Clique [aqui](https://busolinkz.github.io/rocketseat/full-stack/challenges/portfolio/) para acessar o site online.
+Clique [aqui](https://busolinkz.github.io/portfolio-challenge/) para acessar o site online.
 
 Alternativamente, pode ser acessado localmente seguindo estes passos:
 
