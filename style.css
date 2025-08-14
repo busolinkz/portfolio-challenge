@@ -269,6 +269,8 @@ section {
 
     ul {
         display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
         gap: 24px;
         max-width: 890px;
 
